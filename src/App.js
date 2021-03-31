@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 var moment = require('moment');
 moment().format();
 
